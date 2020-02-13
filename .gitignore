@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+packrat/lib*/
+.httr-oauth
+.DS_Store
+.rtweet_token.rds
+.Renviron

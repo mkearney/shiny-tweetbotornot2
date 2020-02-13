@@ -1,0 +1,12 @@
+name: tweetbotornot2
+title: tweetbotornot2
+username:
+account: mikewk
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1803147
+bundleId: 2796757
+url: https://mikewk.shinyapps.io/tweetbotornot2/
+when: 1581560422.52889
+asMultiple: FALSE
+asStatic: FALSE
